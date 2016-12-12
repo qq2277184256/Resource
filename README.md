@@ -1,2 +1,2 @@
 # Resource
-WWW
+说明
